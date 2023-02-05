@@ -1,2 +1,2 @@
 # My-Projects
-Those are the projects that I implemented through out my university years
+Those are the projects that I implemented throughout my university years
